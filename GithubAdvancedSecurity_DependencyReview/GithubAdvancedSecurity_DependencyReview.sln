@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GithubAdvancedSecurity_DependencyReview", "GithubAdvancedSecurity_DependencyReview\GithubAdvancedSecurity_DependencyReview.csproj", "{8438344E-469D-4BDA-9304-92E69EEAEA87}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GithubAdvancedSecurity_DependencyReview.Tests", "GithubAdvancedSecurity_DependencyReview.Tests\GithubAdvancedSecurity_DependencyReview.Tests.csproj", "{7325A17B-8820-4E66-9587-DAEAFE8B8ACA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8438344E-469D-4BDA-9304-92E69EEAEA87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8438344E-469D-4BDA-9304-92E69EEAEA87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8438344E-469D-4BDA-9304-92E69EEAEA87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8438344E-469D-4BDA-9304-92E69EEAEA87}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7325A17B-8820-4E66-9587-DAEAFE8B8ACA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7325A17B-8820-4E66-9587-DAEAFE8B8ACA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7325A17B-8820-4E66-9587-DAEAFE8B8ACA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7325A17B-8820-4E66-9587-DAEAFE8B8ACA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CBAADD58-6530-4364-8545-16DA3D872451}
+	EndGlobalSection
+EndGlobal
